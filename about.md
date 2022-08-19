@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Founder and CEO [@DefCore Security](https://defcore.io)
+Founder [@DefCore Security](https://defcore.io)
 
 Found Vulnerabilties in Apple, Yahoo, Twitter, Goldman Sachs, Matomo, Pixiv, etc.
 
@@ -30,6 +30,13 @@ Talks:
 [Car Hacking On Simulation](https://sector.ca/sessions/car-hacking-on-simulation/)*[Understanding & Exploiting CANBUS]* **@SecTor 2019, Canada**
 
 [How Not To Suck At Cloud Security](https://www.slideshare.net/rohanaggarwal18/how-not-to-suck-at-cloud-security-rohan-aggarwal)*[Implementing Security In Cloud Infrastructure]* **@Global Microsoft Azure BootCamp**
+
+Upcoming Talks:
+===
+
+[Bypassing Anti-Cheats & Hacking Competitive Games](https://romhack.camp/romhack2022-conference-agenda/) **@RomHack 2022, Italy**
+
+[Bypassing Anti-Cheats & Hacking Competitive Games](https://sector.ca/sessions/bypassing-anti-cheats-hacking-competitive-games/) **@SecTor 2022, Canada**
 
 Live Hacking Events:
 ===
