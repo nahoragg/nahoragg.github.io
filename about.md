@@ -36,8 +36,6 @@ Upcoming Talks:
 
 [Bypassing Anti-Cheats & Hacking Competitive Games](https://romhack.camp/romhack2022-conference-agenda/) **@RomHack 2022, Italy**
 
-[Bypassing Anti-Cheats & Hacking Competitive Games](https://sector.ca/sessions/bypassing-anti-cheats-hacking-competitive-games/) **@SecTor 2022, Canada**
-
 Live Hacking Events:
 ===
 
