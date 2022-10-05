@@ -8,7 +8,7 @@ Founder [@DefCore Security](https://defcore.io)
 
 Found Vulnerabilties in Apple, Yahoo, Twitter, Goldman Sachs, Matomo, Pixiv, etc.
 
-~ Bug Bounty Hunter [@Hackerone](https://hackerone.com/nahoragg) & [@Intigriti](https://intigriti.com/nahoragg)
+~ Bug Bounty Hunter [@Hackerone](https://hackerone.com/nahoragg) & [@Intigriti](https://app.intigriti.com/profile/nahoragg)
 
 ~ [Synack Red Team Member](https://www.synack.com/red-team/)
 
