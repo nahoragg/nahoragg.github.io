@@ -25,6 +25,12 @@ Found Vulnerabilties in Apple, Yahoo, Twitter, Goldman Sachs, Matomo, Pixiv, etc
 Talks:
 ===
 
+[Bypassing Anti-Cheats & Hacking Competitive Games(Updated)](https://securityfest.com/speakers/2023/bypassing-anti-cheats-hacking-competitive-games/) **@Security Fest 2023, Sweden**
+
+[Bypassing Anti-Cheats & Hacking Competitive Games(Updated)](https://www.blackhat.com/asia-23/briefings/schedule/index.html#bypassing-anti-cheats--hacking-competitive-games-30572) **@BlackHat 2023, Singapore**
+
+[Bypassing Anti-Cheats & Hacking Competitive Games(Updated)](https://conference.hitb.org/hitbsecconf2023ams/session/bypassing-anti-cheats-hacking-competitive-games/) **@HackInTheBox Amsterdam 2023, Netherlands**
+
 [Bypassing Anti-Cheats & Hacking Competitive Games](https://romhack.camp/romhack2022-conference-agenda/) **@RomHack 2022, Italy**
 
 [Recon – The Road Less Travelled](https://sector.ca/sessions/recon-the-road-less-traveled/) **@SecTor 2020, Canada**
