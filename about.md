@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Founder [@DefCore Security](https://defcore.io)
+Building [@WebSafely](https://websafely.net)
 
 Found Vulnerabilties in Apple, Yahoo, Twitter, Goldman Sachs, Matomo, Pixiv, etc.
 
