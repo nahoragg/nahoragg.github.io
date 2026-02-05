@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Building [@WebSafely](https://websafely.net)
+Building [@WebSafely](https://websafely.app)
 
 Found Vulnerabilties in Apple, Yahoo, Twitter, Goldman Sachs, Matomo, Pixiv, etc.
 
